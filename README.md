@@ -1,2 +1,5 @@
 # Multi-Class-Animal-Classification
-It is the project on identifying animals based on there pictures
+
+📌 Project Overview
+
+TThis project is a deep learning-based multi-class animal classification model trained on images of 90 different animal species
